@@ -129,6 +129,7 @@
 [![GitHub (Java)](https://img.shields.io/badge/Repository_(Java)-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prgrms-be-devcourse/NBE7-9-2-Team08)
 [![GitHub (Kotlin)](https://img.shields.io/badge/Repository_(Kotlin)-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prgrms-be-devcourse/NBE7-9-3-Team08)
 [![Velog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@behyeppy/series/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+[![Velog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@behyeppy/series/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 [![Live](https://img.shields.io/badge/Live-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://nbe-7-9-3-team08.vercel.app/)
 
 <br />
@@ -154,6 +155,6 @@
 </details>
 
 [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hyeseung-OH/NBE7-9-1-Team04-refactoring)
-[![Velog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@behyeppy/series/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+[![Velog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@behyeppy/series/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4)
 
 <br />
