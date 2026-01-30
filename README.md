@@ -23,7 +23,6 @@
 <br />
 
 ## 🛠 Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeseung-OH&layout=compact&theme=tokyonight)
 
 ### Language
 <p>
